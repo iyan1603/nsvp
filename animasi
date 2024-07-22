@@ -1,6 +1,7 @@
 https://s.id/nsvpanimasi
 
-#EXTINF:-1 type="movie" group-title="FILEM_ANIMASI" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp", Despicable Me 4 2024
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp" group-title="FILEM_ANIMASI", Despicable Me 4 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

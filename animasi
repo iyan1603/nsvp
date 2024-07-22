@@ -1,6 +1,11 @@
 https://s.id/nsvpanimasi
 
-
+#EXTINF:-1 type="movie" group-title="FILEM_ANIMASI" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp",Despicable Me 4 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+#https://cdn1.turboviplay.com/data1/6694ba6598331/6694ba6598331480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Rs9G8Pm.png" group-title="FILEM_ANIMASI", TOY STORY 1(1995)
 https://stream.hownetwork.xyz/xxx/toy-story-1995-bluray/2/480.m3u8
